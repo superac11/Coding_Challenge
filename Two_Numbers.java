@@ -2,7 +2,12 @@
 Code:Sagar Acharya
 Date:11/11/2019
 Challenge:
-
+You have a list of 8 numbers from 1 to 10 (either generated randomly or entered 
+by a user). You also have a target number. Your code has to display 2 numbers in 
+the list that either total or make the product of (you are free to choose which operation) 
+the target number. If none, you simply display an appropriate message that none apply. 
+If you are competing, submit your (own, original) code by or before Wednesday at 5pm. 
+Copied code is invalid and will be disqualified. The first to solve in each language wins
 
 
 *******************************************************************************/
